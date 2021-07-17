@@ -4,7 +4,7 @@ US high school student interested in reverse engineering and low-level code anal
 <hr>
 
 <details>
-<summary>:star2: My Projects</summary>
+<summary>:star2: Notable Projects</summary>
 
 <p align="center"><a href="https://github.com/encls/GD-Editor-Leak"><img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=GD-Editor-Leak" /> </a>
 <p align="center"><a href="https://github.com/encls/photon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=photon" /> 
