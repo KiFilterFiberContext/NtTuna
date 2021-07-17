@@ -1,16 +1,29 @@
-### Hi there 👋
+## About Me
+US high school student interested in reverse engineering and low-level code analysis
 
-<!--
-**encls/encls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+<details>
+<summary>:star2: My Projects</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><a href="https://github.com/encls/GD-Editor-Leak"><img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=GD-Editor-Leak" /> </a>
+<p align="center"><a href="https://github.com/encls/photon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=photon" /> 
+<p align="center"><a href="https://github.com/encls/SystemPolicyInfo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=SystemPolicyInfo" /> 
+<p align="center"><a href="https://github.com/encls/AsIO-Exploit"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=AsIO-Exploit" /> 
+<p align="center"><a href="https://github.com/encls/StudentVue-rs"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=StudentVue-rs" /> 
+<p align="center"><a href="https://github.com/encls/BadlionLogger"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=BadlionLogger" /> 
+
+</details>
+
+<hr>
+
+### ⚡ Languages
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=C)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=Rust)
+
+<hr>
+
+## 💻 GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=encls)](https://github.com/anuraghazra/github-readme-stats)
+[![Encls' GitHub stats](https://github-readme-stats.vercel.app/api?username=encls)](https://github.com/anuraghazra/github-readme-stats)
