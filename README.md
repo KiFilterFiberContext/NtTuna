@@ -6,12 +6,12 @@ US high school student interested in reverse engineering and low-level code anal
 <details>
 <summary>:star2: Notable Projects</summary>
   
-<p align="center"><a href="https://github.com/encls/SystemPolicyInfo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=SystemPolicyInfo" /> 
-<p align="center"><a href="https://github.com/encls/GD-Editor-Leak"><img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=GD-Editor-Leak" /> </a>
-<p align="center"><a href="https://github.com/encls/photon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=photon" /> 
-<p align="center"><a href="https://github.com/encls/StudentVue-rs"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=StudentVue-rs" /> 
-<p align="center"><a href="https://github.com/encls/BadlionLogger"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=BadlionLogger" /> 
-<p align="center"><a href="https://github.com/encls/AsIO-Exploit"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=AsIO-Exploit" /> 
+<p align="center"><a href="https://github.com/NtTuna/SystemPolicyInfo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=SystemPolicyInfo" /> 
+<p align="center"><a href="https://github.com/NtTuna/GD-Editor-Leak"><img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=GD-Editor-Leak" /> </a>
+<p align="center"><a href="https://github.com/NtTuna/photon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=photon" /> 
+<p align="center"><a href="https://github.com/NtTuna/StudentVue-rs"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=StudentVue-rs" /> 
+<p align="center"><a href="https://github.com/NtTuna/BadlionLogger"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=BadlionLogger" /> 
+<p align="center"><a href="https://github.com/NtTuna/AsIO-Exploit"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=AsIO-Exploit" /> 
 
 </details>
 
@@ -25,5 +25,5 @@ US high school student interested in reverse engineering and low-level code anal
 <hr>
 
 ## 💻 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=encls)](https://github.com/anuraghazra/github-readme-stats)
-[![Encls' GitHub stats](https://github-readme-stats.vercel.app/api?username=encls)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NtTuna)](https://github.com/anuraghazra/github-readme-stats)
+[![Encls' GitHub stats](https://github-readme-stats.vercel.app/api?username=NtTuna)](https://github.com/anuraghazra/github-readme-stats)
