@@ -6,12 +6,12 @@ US high school student interested in reverse engineering and low-level code anal
 <details>
 <summary>:star2: Notable Projects</summary>
   
-<p align="center"><a href="https://github.com/NtTuna/SystemPolicyInfo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=SystemPolicyInfo" /> 
-<p align="center"><a href="https://github.com/NtTuna/GD-Editor-Leak"><img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=GD-Editor-Leak" /> </a>
-<p align="center"><a href="https://github.com/NtTuna/photon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=photon" /> 
-<p align="center"><a href="https://github.com/NtTuna/StudentVue-rs"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=StudentVue-rs" /> 
-<p align="center"><a href="https://github.com/NtTuna/BadlionLogger"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=BadlionLogger" /> 
-<p align="center"><a href="https://github.com/NtTuna/AsIO-Exploit"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=encls&repo=AsIO-Exploit" /> 
+<p align="center"><a href="https://github.com/NtTuna/SystemPolicyInfo"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=NtTuna&repo=SystemPolicyInfo" /> 
+<p align="center"><a href="https://github.com/NtTuna/GD-Editor-Leak"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NtTuna&repo=GD-Editor-Leak" /> </a>
+<p align="center"><a href="https://github.com/NtTuna/photon"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NtTuna&repo=photon" /> 
+<p align="center"><a href="https://github.com/NtTuna/StudentVue-rs"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=NtTuna&repo=StudentVue-rs" /> 
+<p align="center"><a href="https://github.com/NtTuna/BadlionLogger"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=NtTuna&repo=BadlionLogger" /> 
+<p align="center"><a href="https://github.com/NtTuna/AsIO-Exploit"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=NtTuna&repo=AsIO-Exploit" /> 
 
 </details>
 
