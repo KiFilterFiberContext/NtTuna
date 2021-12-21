@@ -1,5 +1,5 @@
 ## About Me
-US high school student interested in reverse engineering and low-level code analysis
+I like reversing Windows and other proprietary stuff
 
 <hr>
 
